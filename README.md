@@ -7,10 +7,15 @@ This set of codes/data implements our TIA paper "Diagnosis-Driven Co-planning of
 This repository contains the five core Jupyter notebooks used in the TIA paper to evaluate EV-induced distribution grid stress and to test mitigation strategies based on line upgrades and battery energy storage systems (BESS). The workflow begins with EV-load impact analysis, identifies voltage and thermal violation thresholds, builds benchmark line-upgrade cases, solves the proposed DDCP planning model, and finally validates the BESS operation under the planned or upgraded network condition.
 
 | File name | Roles and functions |
+
 | 1_IAS_EV load impact_violation analysis.ipynb	|  EV impact and charger power sensitivity analysis 
+
 | 2_IAS_Triger_BESS.ipynb 			|  EV adoption trigger analysis 
+
 | 3_IAS_Upgrade lines.ipynb 			|  EV impact assessment and line-upgrade benchmark 
+
 | 4_IAS_DDCP.ipynb 				|  Proposed DDCP optimization model with BESS planning decisions 
+
 | 5_IAS_BESS_operation.ipynb 			|  BESS operation and post-upgrade validation 
 
 
