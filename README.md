@@ -8,7 +8,7 @@ This repository contains the five core Jupyter notebooks used in the TIA paper t
 
 | 1_IAS_EV load impact_violation analysis.ipynb	|  EV impact and charger power sensitivity analysis 
 
-| 2_IAS_Triger_BESS.ipynb 			|  EV adoption trigger analysis 
+| 2_IAS_Trigger_BESS.ipynb 			|  EV adoption trigger analysis 
 
 | 3_IAS_Upgrade lines.ipynb 			|  EV impact assessment and line-upgrade benchmark 
 
@@ -160,7 +160,7 @@ The notebooks are intended to be executed in the following order:
 1_IAS_EV load impact_violation analysis.ipynb
  -> Screen EV-induced stress across voltage levels and EV charger power cases.
 
-2_IAS_Triger_BESS.ipynb 
+2_IAS_Trigger_BESS.ipynb 
  -> Identify EV adoption thresholds and violation patterns.
 
 3_IAS_Upgrade lines.ipynb 
