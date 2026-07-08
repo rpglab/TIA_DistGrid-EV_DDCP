@@ -1,0 +1,3 @@
+The test system used in this paper is a 240-bus test system, of which the details can be found in the paper reference below.
+
+Bu, F., Yuan, Y., Wang, Z., Dehghanpour, K. and Kimber, A., 2019, October. A time-series distribution test system based on real utility data. In 2019 North American Power Symposium (NAPS) (pp. 1-6). IEEE.
