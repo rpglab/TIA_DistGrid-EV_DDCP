@@ -1,6 +1,6 @@
 # Optimal Planning for Distribution Grid with EV in Python Jupyter Notebook.
 
-This set of codes/data implements our TIA paper "Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles". It implemented the proposed three-stage Diagnosis-Driven Co-Planning (DDCP) framework, which jointly optimizing grid infrastructure reinforcements and Battery Energy Storage System (BESS) investment.
+This set of codes/data implements our TIA paper "Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles". It implements the proposed three-stage Diagnosis-Driven Co-Planning (DDCP) framework for coordinated network reinforcement and BESS planning.
 
 
 ## Repository Summary:
