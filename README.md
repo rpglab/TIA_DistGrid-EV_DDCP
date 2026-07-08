@@ -225,7 +225,7 @@ Paper website: <a class="off" href="/papers/Linhan-Elias-EV-Vios-Soln/"  target=
 
 
 ## Contributions:
-Linhan Fang developed this set of programs/data and implemented the proposed DDCA framework. Elias Raffoul analyzed EV counts for each bus and conducted the initial EV grid impact analysis. Xingpeng Li supervised this work.
+Linhan Fang developed this set of programs/data and implemented the proposed DDCP framework. Elias Raffoul analyzed EV counts for each bus and conducted the initial EV grid impact analysis. Xingpeng Li supervised this work.
 
 
 ## Contact:
